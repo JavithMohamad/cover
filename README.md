@@ -140,8 +140,8 @@ body {
 ```
 
 ## OUTPUT:
-![Alt text](image-1.png)
-![Alt text](image.png)
+![image-1](https://github.com/JavithMohamad/cover/assets/121215951/28200fab-8540-43c1-9070-6ab107294fbf)
+![283319079-b02aa8f6-6cbf-4c41-ac9d-9ee95d5b3c05](https://github.com/JavithMohamad/cover/assets/121215951/b4f438e0-afa9-421b-8992-109bb754d05e)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
